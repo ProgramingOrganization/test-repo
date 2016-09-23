@@ -1,1 +1,7 @@
 My name is Desi Dimitrova
+name=Desi
+size=100
+emai=adessi@abv.bg
+age=39
+
+
